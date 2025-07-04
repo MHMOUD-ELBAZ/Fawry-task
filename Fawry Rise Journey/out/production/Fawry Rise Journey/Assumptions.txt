@@ -1,0 +1,4 @@
+
+- Every cart must have an owner customer, so we can add him as a field in the cart model.
+- Cart may hold its items for some time, during this time, any added product may expire or
+get decreased by another customer
